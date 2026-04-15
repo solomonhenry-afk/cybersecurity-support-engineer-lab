@@ -2,7 +2,7 @@
 
 A hands-on, real-world simulation of a Cybersecurity Support Engineer role, designed to demonstrate practical experience across EDR/MDR, cloud security, incident response, and customer-facing troubleshooting.
 
-## 🚀 Overview
+##  Overview
 
 A real-world Cybersecurity Support Engineering lab simulating enterprise SOC operations, EDR/MDR support workflows, cloud security incidents, automation pipelines, and AI-driven detection engineering.
 
