@@ -1,8 +1,25 @@
+# 🛡️ Cybersecurity Support Engineering Lab
+
+![SOC](https://img.shields.io/badge/SOC-Operations-blue)
+![EDR](https://img.shields.io/badge/EDR-MDR-green)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
+![Automation](https://img.shields.io/badge/Automation-Python-yellow)
+![AI](https://img.shields.io/badge/AI-Security-red)
+
+> Real-world simulation of SOC operations, EDR/MDR support, cloud security incidents, and AI-driven detection engineering.
+
 #  Cybersecurity Support Engineer Lab
 
 A hands-on, real-world simulation of a Cybersecurity Support Engineer role, designed to demonstrate practical experience across EDR/MDR, cloud security, incident response, and customer-facing troubleshooting.
 
 ##  Overview
+<<<<<<< HEAD
+=======
+
+This repository simulates real-world cybersecurity support engineering across SOC operations, endpoint security (EDR/MDR), cloud environments (AWS/Azure), and automation.
+
+Built to demonstrate hands-on capability in incident response, troubleshooting, detection engineering, and modern security operations.
+>>>>>>> 66d8366 (Added professional README banner and overview section)
 
 A real-world Cybersecurity Support Engineering lab simulating enterprise SOC operations, EDR/MDR support workflows, cloud security incidents, automation pipelines, and AI-driven detection engineering.
 
